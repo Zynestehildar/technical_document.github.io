@@ -71,6 +71,7 @@ a{
   overflow: scroll;
   align-items: left;
   background-color: #E0F2FE;
+  overflow-x: hidden;
 }
  #navbar header {
   text-align: center;
